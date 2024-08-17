@@ -1,7 +1,8 @@
 # Carrot Collector Game
 
-🚙🥕オープンカーでにんじんを集めるゲーム (version1.0.0)  
+オープンカーでにんじんを集めるゲーム
 
+**Version:** 1.0.0
 **Creation Date:** 2023年1月  
 **Programming Language:** Processing  
 
