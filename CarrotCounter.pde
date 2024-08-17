@@ -1,7 +1,6 @@
 class CarrotCounter {
   // 獲得した人参の個数
   int count;
-
   CarrotCounter() {
     count = 0;
   }
@@ -9,7 +8,6 @@ class CarrotCounter {
   void add() {
     count++;
   }
-
   // ゲーム中における獲得数の表示 
   void display() {
     fill(255,180,50);

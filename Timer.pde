@@ -1,16 +1,19 @@
 class Timer {
-  int savedTime;      //タイマースタート時刻
-  int totalTime;     //タイマー設定時間
+  int savedTime;
+  int totalTime;
   Timer(int tempTotalTime) {
     totalTime = tempTotalTime;
   }
-  void start() {      //タイマーをリセットして始めるメソッド
+  // タイマーをリセットして始める
+  void start() {
     savedTime = millis(); 
   }
-  boolean isFinished() {   //設定時間になったか調べるメソッド
+  // 設定時間になったか調べるメソッド
+  boolean isFinished() {
     int passedTime = millis()- savedTime;
     if (passedTime > totalTime) {
-      return true;    //設定時間になったらtrueを返す
+      // 設定時間になったらtrueを返す
+      return true;
     } else {
       return false;
     }
