@@ -2,7 +2,7 @@
 
 オープンカーでにんじんを集めるゲーム
 
-**Version:** 1.0.0
+**Version:** 1.0.0  
 **Creation Date:** 2023年1月  
 **Programming Language:** Processing  
 
