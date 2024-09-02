@@ -6,6 +6,8 @@
 **Creation Date:** 2023年1月  
 **Programming Language:** Processing  
 
+学部の講義の自由課題で作成
+
 ## Overview
 
 ### Rules
